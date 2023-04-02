@@ -1,0 +1,8 @@
+https://www.bezkoder.com/react-node-express-mongodb-mern-stack/
+
+https://www.freecodecamp.org/news/how-to-use-react-router-version-6/
+
+https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/
+
+https://andela.com/insights/use-your-phone-to-make-a-simple-django-and-reactjs-server/
+
