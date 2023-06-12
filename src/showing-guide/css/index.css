@@ -77,6 +77,10 @@ body {
     font-size: 0.8rem;
 }
 
+.top-right-menu {
+  text-align: right;
+}
+
 .drift {
     background-color: #666;
 }
@@ -144,6 +148,7 @@ body {
 .midtop {
     background-color: #fff;
     width: 99%;
+    padding: 0;
 }
 
 .toptable {
@@ -241,6 +246,10 @@ body {
 
     .help1 {
         margin-top: 75%;
+    }
+    
+    .top-right-menu {
+      text-align: left;
     }
 
     .align {
